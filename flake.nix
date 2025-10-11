@@ -3,7 +3,7 @@
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
-    hyprland.url = "github:hyprwm/Hyprland/v0.51.0";
+    hyprland.url = "github:hyprwm/Hyprland/v0.51.1";
   };
 
   outputs = {
